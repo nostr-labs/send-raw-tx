@@ -1,0 +1,11 @@
+{
+  "btc": "https://mempool.space/api/tx",
+  "tbtc3": "https://mempool.space/testnet/api/tx",
+  "tbtc4": "https://mempool.space/testnet4/api/tx",
+  "sbtc": "https://mempool.space/signet/api/tx",
+  "ltc": "https://litecoinspace.org/api/tx",
+  "tltc": "https://testnet.litecoinspace.org/api/tx",
+  "vtc": "https://insight.vertcoin.org/api/tx/send",
+  "liquid": "https://blockstream.info/liquid/api/tx",
+  "tliquid": "https://blockstream.info/liquidtestnet/api/tx"
+}
